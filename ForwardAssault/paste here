@@ -1,0 +1,18 @@
+        var args2 = args.slice(1)
+        var args3 = args.slice(2)
+        var args4 = args.slice(3)
+        var args5 = args.slice(4)
+        var args6 = args.slice(5)
+        var args7 = args.slice(6)
+        var args8 = args.slice(7)
+        var args9 = args.slice(8)
+        var args10 = args.slice(9)
+        var args11 = args.slice(10)
+        var args12 = args.slice(11)
+        var args13 = args.slice(12)
+        var args14 = args.slice(13)
+        var args15 = args.slice(14)
+
+
+
+         + args2 + ' ' + args3 + ' ' + args4 + ' ' + args5 + ' ' + args6 + ' ' + args7 + ' ' + args8 + ' ' + args9 + ' ' + args10 + ' ' + args11 + ' ' + args12 + ' ' + args13 + ' ' + args14 + ' ' + args15 + ' That is what ' + sayer + ' said.'
